@@ -17,8 +17,6 @@ function calculateTotalMortgage(percent, contribution, amount, date) {
     console.log(pay);
     return pay;
 
-    // код для задачи №1 писать здесь
-    // return totalAmount;
 }
 
 function getGreeting(name) {
